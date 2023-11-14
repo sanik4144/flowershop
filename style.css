@@ -38,6 +38,9 @@ body{
 /* Section 2 */
 
 .sec2{
+    margin: 20%;
+    margin-top: 0px;
+    margin-bottom: 0px;
     padding-top: 80px;
     padding-bottom: 50px;
 }
@@ -102,7 +105,126 @@ body{
 }
 
 
-/* Secion 3 */
+/* Section 3 */
+
+.sec3{
+    display: flex;
+    background-color: rgb(244, 244, 244);
+    margin: 20%;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    align-items: center;
+    justify-content: center;
+}
+.sec3img{
+    text-align: center;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 
+/* Section 4 */
+.txtcolor{
+    color: rgb(229, 84, 115);
+}
+.sec4{  
+    display: flex;
+    background-color: rgb(254, 246, 248);
+    padding: 20%;
+    padding-left: 15%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.sec4text{
+    text-align: center;
+    padding: 15%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.sec4text p{
+    opacity: 60%;
+}
+#btn2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: rgb(229, 84, 115);
+    color: white;
+}
+
+/* Section 5 */
+
+.sec5{
+    padding: 20%;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.sec5text{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.sec5text p{
+    opacity: 60%;
+}
+.sec5img img{
+    padding: 3px;
+}
+
+/* Section 6 */
+
+.sec6{
+    /* padding: 20%; */
+    margin: 20%;
+    margin-top: 60px;
+    height: 220px;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-image: url("Flower Asset/Rectangle 9.png");
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
+.sec6 h6{
+    opacity: 60%;
+    padding-top: 0px;
+}
+#srcbox1{
+    height: 40px;
+    width: 500px;
+    border: none;
+}
+#btn3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: rgb(229, 84, 115);
+    color: white;
+}
+
+/* Footer */
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5%;
+}
+footer p{
+    opacity: 60%;
+    margin: 30%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+footer h6{
+    opacity: 40%;
+}
 
