@@ -1,0 +1,108 @@
+body{
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* Section 1 */
+
+.sec1{
+    display: flex;
+    background-color: rgb(252, 238, 241);
+    padding: 40px;
+}
+.sec1text{
+    float: left;
+    padding-left: 180px;
+    padding-right: 22%;
+}
+.sec1text h1{
+    font-size: 3.5rem;
+}
+.sec1text p{
+    opacity: 70%;
+}
+#btn1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: rgb(229, 84, 115);
+    color: white;
+}
+.sec1img{
+    padding-right: 10%;
+}
+
+/* Section 2 */
+
+.sec2{
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.sec2text{
+    text-align: center;
+}
+.sec2text p{
+    padding: 25%;
+    opacity: 60%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.sec2img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.fl1{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.flower1{
+    width: 300px;
+    height: 305px;
+    padding-top: 70px;
+    margin: 10px;
+    border-radius: 200px 200px 5px 5px;
+    background-color: rgb(242, 222, 231);
+    text-align: center;
+}
+
+.fl2{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.flower2{
+    width: 300px;
+    height: 305px;
+    padding-top: 70px;
+    margin: 10px;
+    border-radius: 200px 200px 5px 5px;
+    background-color: rgb(217, 239, 241);
+    text-align: center;
+}
+
+.fl3{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.flower3{
+    width: 300px;
+    height: 305px;
+    padding-top: 70px;
+    margin: 10px;
+    border-radius: 200px 200px 5px 5px;
+    background-color: rgb(227, 235, 219);
+    text-align: center;
+}
+
+
+/* Secion 3 */
+
+
+
